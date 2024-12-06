@@ -10,9 +10,6 @@ This project demonstrates how to use Tailwind CSS to build responsive, modern we
   - [2. Installing Tailwind CSS via NPM](#2-installing-tailwind-css-via-npm)
 - [Project Features](#project-features)
 - [Installation Instructions](#installation-instructions)
-- [Usage Instructions](#usage-instructions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
