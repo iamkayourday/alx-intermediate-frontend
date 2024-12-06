@@ -91,7 +91,7 @@ This method is recommended for larger projects where you want to have full contr
      ```
 
 6. **Create a CSS File:**
-   - Create a CSS file (e.g., `styles.css`) and add the following lines to import Tailwind’s default styles:
+   - Create a CSS file (e.g., `yourfilename.css`) and add the following lines to import Tailwind’s default styles:
 
      ```css
      /* styles.css */
